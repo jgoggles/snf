@@ -1,0 +1,27 @@
+#snf {
+  padding: 18px;
+}
+
+h1 {
+  font-family: "Fjalla One", sans-serif;
+  font-size: 3em;
+  font-weight: bolder;
+  letter-spacing: 0.11em;
+  margin: 0;
+  text-transform: uppercase;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  color:#808080;
+}
+
+@media (min-width: 768px) {
+  h1 {
+    font-size: 5em;
+  }
+}

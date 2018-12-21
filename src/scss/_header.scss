@@ -1,0 +1,15 @@
+#header {
+  border-bottom: 1px solid #E8E8E8;
+  padding: 0 18px 8px 18px;
+  margin: 0 -18px;
+}
+
+#nav {
+  display: flex;
+  font-family: "Helvetia Neue", sans-serif;
+
+  a:hover {
+    background-color: #808080;
+    color: white;
+  }
+}

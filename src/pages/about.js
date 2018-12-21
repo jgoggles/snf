@@ -3,5 +3,8 @@ import Layout from "../components/layout"
 
 export default () => (
   <Layout>
+    <div id="about">
+      Hi
+    </div>
   </Layout>
 )

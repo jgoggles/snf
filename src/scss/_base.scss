@@ -7,6 +7,15 @@ h1 {
   text-transform: uppercase;
 }
 
+h2 {
+  font-family: "Fjalla One", sans-serif;
+  font-size: 2em;
+  font-weight: bolder;
+  // letter-spacing: 0.05em;
+  margin: 0;
+  text-transform: uppercase;
+}
+
 a {
   color: black;
   text-decoration: none;
@@ -16,9 +25,22 @@ a:hover {
   color:#808080;
 }
 
+.blog-post-container {
+  padding: 12px;
+}
+
 @media (min-width: 768px) {
   h1 {
     font-size: 5em;
     letter-spacing: 0.05em;
+  }
+
+  h2 {
+    font-size: 3em;
+    letter-spacing: 0.05em;
+  }
+
+  .blog-post-container {
+    width: 700px;
   }
 }

@@ -12,6 +12,8 @@ export default ({ children }) => (
       <meta name="viewport" content="width=device-width, initial-scale=1"></meta>
     </Helmet>
     <Header />
-    {children}
+    <div className="container">
+      {children}
+    </div>
   </div>
 )

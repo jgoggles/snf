@@ -10,7 +10,7 @@ title: "Why the Denver Broncos Drafted Noah Fant"
 
 There are hundreds of millions of interrelated factors which play a role in what you or I or any other human being on earth will do tomorrow, or next week, or next year. We can, at best, barely make predictions about our own future state of being, let alone another person's. Thus, ad nauseam discussion of draft picks is a futile exercise and serves only to bolster egos and pilfer valuable time and energy from small-minded individuals. However, we absolutely must know why the Denver Broncos drafted Noah Fant in the first round.
 
-First, some thoughts about the first round in general. Watching the contrived spectacle of assembled superfans assorted into mini superfan nation-states, replete with face paint, team-logoed patterned blazers, for some reason Mardi Gras beads, oversized foam apparel and appendages, and other what-have-yous is a whirlwind of self fulfilling regional stereotyping and cultural appropriation. All of us not in attendance are (most likely) acting like normal human
+First, some thoughts about the first round in general. Watching the contrived spectacle of assembled superfans assorted into mini superfan nation-states, replete with face paint, team-logo-patterned blazers, for some reason Mardi Gras beads, oversized foam apparel and appendages, and other what-have-yous is a whirlwind of self fulfilling regional stereotyping and cultural appropriation. All of us not in attendance are (most likely) acting like normal human
 beings, yet we suspend our disbelief and buy into the notion of we're-number-one! carried by every fan who is.
 
 We also get interviews with just-drafted players that go something like this:

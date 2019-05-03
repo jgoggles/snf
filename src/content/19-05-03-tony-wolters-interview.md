@@ -1,7 +1,7 @@
 ---
 path: "/blog/tony-wolters"
 date: "2019-05-03"
-title: "Colorado Rockies Catcher Tony Wolters Talks, Hits Baseballs"
+title: "Colorado Rockies Catcher Tony Wolters Hits Baseballs, Talks"
 ---
 
 ***Discussed:*** *hitting baseballs, enchiladas, bad puns, general mediocrity, wRC+, being human*

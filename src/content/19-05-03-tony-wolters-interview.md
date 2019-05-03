@@ -9,7 +9,7 @@ title: "Colorado Rockies Catcher Tony Wolters Hits Baseballs, Talks"
 <hr />
 
 Colorado Rockies catcher Tony Wolters is a bad hitter. However, though still not good by any stretch, this year he is
-a little less bad. An improvement of this type gets one curious what's behind such a notch-above-humdrum change. I had the chance to explore this curiousity and share my findings with Tony himself when we sat down together at a Mexican restaurant. Below is the transcript of our discussion, unedited.
+a little less bad. An improvement of this type gets one curious what's behind such a notch-above-humdrum change. I had the chance to explore this curiosity and share my findings with Tony himself when we sat down together at a Mexican restaurant. Below is the transcript of our discussion, unedited.
 
 Me: Hi Tony. Thanks for joining me here. I see you've already
 ordered. Enchiladas Ole. Good choice. I'm a Chile Relleno man myself. Crispy.
@@ -21,7 +21,7 @@ Me: Let's get down to business shall we? The business of talking hitting.
 Tony: Let's do it.
 
 Me: Ok, diving right in. Last year in 216 plate appearances you had a wRC+ of 45, which, let's be honest, is
-shoot-yourself terrible. I mean, everyone knows you're a distublingly bad hitter, and
+shoot-yourself terrible. I mean, everyone knows you're a disturbingly bad hitter, and
 if not for (Pat) Valaika you'd be easily the worst on the team.
 
 Tony: Don't forget Noel (Cuevas). And what's wRC+?
@@ -155,7 +155,7 @@ Me: Why does anyone do or not do anything?
 Tony: Search me. But does this all mean anything?
 
 Me: Nothing means anything, Tony. But in the slice of context we've chosen to carve out here, both here here and the cosmic here, because we're all just figuring 
-out how to get ourselves out of bed everday, I'd like to think it means that we each have the capacity to make ourselves better, and that 
+out how to get ourselves out of bed everyday, I'd like to think it means that we each have the capacity to make ourselves better, and that 
 it's only relative to what we were before, because if we look at it from a larger scale, with respect to others and how we compare, then we tend to feel like we're terrible, which is no way to go. I like your hair and mustache by the way.
 
 Tony: Thank you. 

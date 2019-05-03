@@ -150,11 +150,13 @@ Me: Probably because you're hitting more line drives.
 
 Tony: Why didn't you just say that to begin with?
 
-Me: Why does anyone do anything, Tony?
+Me: Why does anyone do or not do anything?
 
-Tony: Search me.
+Tony: Search me. But does this all mean anything?
 
-Me: I like your hair and mustache by the way.
+Me: Nothing means anything, Tony. But in the slice of context we've chosen to carve out here, both here here and the cosmic here, because we're all just figuring 
+out how to get ourselves out of bed everday, I'd like to think it means that we each have the capacity to make ourselves better, and that 
+it's only relative to what we were before, because if we look at it from a larger scale, with respect to others and how we compare, then we tend to feel like we're terrible, which is no way to go. I like your hair and mustache by the way.
 
 Tony: Thank you. 
 

@@ -4,7 +4,7 @@ date: "2019-05-03"
 title: "Colorado Rockies Catcher Tony Wolters Hits Baseballs, Talks"
 ---
 
-***Discussed:*** *hitting baseballs, enchiladas, bad puns, general mediocrity, wRC+, being human*
+***Discussed:*** *hitting baseballs, enchiladas, bad wordplay, general mediocrity, wRC+, being human*
 
 <hr />
 
@@ -29,7 +29,7 @@ Tony: Don't forget Noel (Cuevas). And what's wRC+?
 Me: I'm glad you asked. It's a stat that does its best to measure the actual value of a hitter's
 output, placing a weight on each offensive event (singles, doubles, etc) in accordance to it's relative impact on run
 scoring while also taking park effects into account, putting everyone on
-a theoretical even playing field, if you'll pardon the pun. 
+a theoretical even playing field, if you'll pardon the wordplay. 
 
 Tony: Pardoned. 
 
@@ -70,7 +70,7 @@ that devoting so much time and energy to learning how to play such a super
 demanding position took away from hitting. I'm human after all. I can only do
 so much at once.
 
-Me: Yes, yes. An unenviable position to be in, if you'll pardon the pun.
+Me: Yes, yes. An unenviable position to be in, if you'll pardon the wordplay.
 
 Tony: Pardoned.
 

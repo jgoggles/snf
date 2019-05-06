@@ -2,9 +2,12 @@ import React from "react"
 import { Link } from "gatsby"
 
 const PostLink = ({ post }) => (
-  <div>
+  <div className="post-link">
     <Link to={post.frontmatter.path}>
-      {post.frontmatter.title} ({post.frontmatter.date})
+      <div>
+          {post.frontmatter.title} 
+      </div>
+      <span>{post.frontmatter.date}</span>
     </Link>
   </div>
 )

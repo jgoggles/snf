@@ -23,6 +23,7 @@ module.exports = {
         // siteSpeedSampleRate: 10,
         // cookieDomain: "example.com",
       },
+    },
     "gatsby-plugin-sass",
     {
       resolve: `gatsby-source-filesystem`,

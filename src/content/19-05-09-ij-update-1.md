@@ -45,7 +45,7 @@ other canyons because holy shit when you see it! You've got to see this canyon!
 The only downside to reading this book is at the same time I've decided
 I should start writing more (again), and then you just start wanting to write
 like the last section of IJ you read, however tongue in cheek.[^2] First of all, who do you think you
-are mister? You can't just go and copy DFW no more than you could dig your own
+are mister? You can't just go and copy DFW any more than you could dig your own
 Grand Canyon. Second of all, writing is so much about genuine voice and when you're 
 reintroducing yourself to the practice finding that voice can be confusing, like 
 artistic puberty. So reading IJ is only going to fan those flames and potentially 

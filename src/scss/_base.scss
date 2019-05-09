@@ -60,5 +60,9 @@ a:hover {
 
   .blog-post-container {
     width: 700px;
+
+    a { text-decoration: underline;}
+    .footnote-backref { display: none; }
+    .footnotes * { font-size: 14px; }
   }
 }

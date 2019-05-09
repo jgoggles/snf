@@ -37,14 +37,14 @@ I can see why people humble-brag about reading Infinite Jest. I suppose that's w
 I'm doing. But it's not so much a brag, really, rather than
 my-God-I-need-to-share-what's-happening-here! Like what if there weren't
 photos of the Grand Canyon and everyone and their mother hadn't been there?
-Can you imagine seeing that fucker[^1]?  You'd want
+Can you imagine seeing that fucker?[^1] You'd want
 to tell people about what an amazing thing there is in the desert. Yeah, it's
 a canyon, like a million other canyons, but this canyon is not like a million
 other canyons because holy shit when you see it! You've got to see this canyon!
 
 The only downside to reading this book is at the same time I've decided
 I should start writing more (again), and then you just start wanting to write
-like the last section of IJ you read, however tongue in cheek[^2]. First of all, who do you think you
+like the last section of IJ you read, however tongue in cheek.[^2] First of all, who do you think you
 are Mr.? You can't just go and copy DFW no more than you could dig your own
 Grand Canyon. Second of all, writing is so much about genuine voice and when you're 
 reintroducing yourself to the practice finding that voice can be confusing, like 

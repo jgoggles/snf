@@ -35,7 +35,7 @@ come together. You just need to stop swimming and the current will take you to t
 
 I can see why people humble-brag about reading Infinite Jest. I suppose that's what
 I'm doing. But it's not so much a brag, really, rather than
-holy-shit-I-want-to-share-what-I'm-experiencing. Like what if there weren't
+my-God-I-want-to-share-what-I'm-experiencing. Like what if there weren't
 photos of the Grand Canyon and everyone and their mother hadn't been there?
 Can you imagine seeing that fucker[^1]?  You'd want
 to tell people about what an amazing thing there is in the desert. Yeah, it's

@@ -38,6 +38,12 @@ h2 {
   }
 }
 
+.blog-post-container {
+  a { text-decoration: underline;}
+  .footnote-backref { display: none; }
+  .footnotes * { font-size: 14px; }
+}
+
 a {
   color: black;
   text-decoration: none;

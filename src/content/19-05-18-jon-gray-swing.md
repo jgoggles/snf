@@ -82,7 +82,7 @@ Blackmon to try his hand with the bases loaded. This hypothetical situation—tw
 three men on base—will produce about 0.75 runs on average prior to the end of the
 inning. Not as many as with one out, but still more than with three outs. 
 
-The best case scenario of not swinging is a walk or non-injury-resulting
+The best case scenario of not swinging is a wild pitch, walk, or non-injury-resulting
 hit-by-pitch, which would push a run across. This was not totally out of
 question since the basically makes-it-up-as-he-goes Angel Hernandez was calling
 balls and strikes, so you might get something to wobble your way from sheer

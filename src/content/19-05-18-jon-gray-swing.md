@@ -35,7 +35,7 @@ Jon has a career batting average of 0.091. Put another way,
 he makes an out 91% of the time he tries his best to get a hit.
 The situation was not as good in reality as it might seem on paper for the Rockies. 
 
-Making matters worse, with the bases loaded, there are multiple opportunities in
+Making matters worse, with the bases loaded there are multiple opportunities in
 which an inning-ending double play can be manufactured if Jon happened to put
 the ball in play. Home-to-first, second-to-first, third-to-second,
 third-to-first, that's four right there and there has to be at least like
@@ -50,7 +50,7 @@ Jon Gray. Even taking into account the universally difficult matchup for
 left-handed hitting hitters versus left-handed pitching pitchers such as the current at
 the time pitcher Cole Irvin, Charlie has a career batting average of 0.299. His
 chances of not making an out are about three times better than Jon's. This is not
-even thinking about his ability to get hits for more than one base which tend to
+even bearing in mind his ability to get hits for more than one base which tend to
 allow more runs to score than just single base hits, especially when there are
 runners at every base.
 
@@ -65,18 +65,19 @@ the bat?
 
 Rockies manager Buddy Black should have politely instructed Jon to under no
 circumstances make any move whatsoever with his bat. But also don't make it
-obvious that he has no intention of swinging the bat, do not be too casual with
+obvious that he has no intention of moving the bat, do not be too casual with
 his general demeanor up there. The Phillies must remain convinced that the
-Rockies would be so stupid to allow pitcher Jon Gray to swing at any pitch he
+Rockies would be so stupid to allow pitcher Jon Gray to freely swing at any pitch he
 deemed hittable. Opposing pitcher Cole Irvin should not feel total license to
-freely throw fastballs down the middle without fear of reprisal from even such
+throw fastballs down the middle without fear of reprisal from even such
 a terrible hitter. For some reason Major League pitchers tend to treat other
 pitchers with the same competitive respect as non-pitchers when they are
 hitting, maybe due to the fact they they themselves wish they were respected
-hitters when they hit. Either way, it's better for Jon to act totally normal and play the whole thing super cool.
+hitters when they hit. Either way, it's better for Jon to act totally normal 
+and play the whole thing super cool, but not too super cool.
 
 The worst case scenario of not swinging is Jon strikes out on three called strikes
-and registers only a single out allowing more-than-competent-hitting Charlie
+and registers only a single out allowing good-at-hitting Charlie
 Blackmon to try his hand with the bases loaded. This hypothetical situation—two outs and
 three men on base—will produce about 0.75 runs on average prior to the end of the
 inning. Not as many as with one out, but still more than with three outs. 
@@ -90,7 +91,7 @@ to play it cool up there pitcher Cole Irvin will not (hypothetically, maybe) be
 throwing it right down the middle for strikes. He'll still be trying to make an
 out while not offering potentially hit-producing pitches i.e. obvious strikes. 
 
-In the end, Jon Gray was allowed to swing the bat, hitting into an inning
-ending double play, leaving Charlie Blackmon to lead off the following inning
-with a double. Eventually the Rockies would lose the entire game by a single run giving
+In the end, Jon Gray was allowed to swing the bat, hitting into an inning-ending 
+double play, leaving Charlie Blackmon to lead off the following inning
+with a (goddammit!) double. Eventually the Rockies would lose the entire game by a single run giving
 hindsight's biased punch extra hutzpah.

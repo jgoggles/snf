@@ -84,7 +84,7 @@ inning. Not as many as with one out, but still more than with three outs.
 
 The best case scenario of not swinging is a pass ball, wild pitch, non-injury-resulting
 hit-by-pitch, or walk, all of which would score a run. This was not totally out of
-question since the basically makes-it-up-as-he-goes Angel Hernandez was calling
+question since the basically-makes-it-up-as-he-goes Angel Hernandez was calling
 balls and strikes, so you might get something to wobble your way from sheer
 incompetence umpire-wise. Plus since Jon has (hypothetically) been instructed
 to play it cool up there pitcher Cole Irvin will not (hypothetically, maybe) be

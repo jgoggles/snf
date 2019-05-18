@@ -51,8 +51,8 @@ left-handed hitting hitters versus left-handed pitching pitchers such as the cur
 the time pitcher Cole Irvin, Charlie has a career batting average of 0.299. His
 chances of not making an out are about three times better than Jon's. This is not
 even bearing in mind his ability to get hits for more than one base which tend to
-allow more runs to score than just single base hits, especially when there are
-runners at every base.
+allow more runs to score than just single base hits, especially when there is a
+runner at every base.
 
 Summarizing the facts: the Rockies had their hitter most likely to make an out
 hitting in the situation they were most likely to score runs should a hit be

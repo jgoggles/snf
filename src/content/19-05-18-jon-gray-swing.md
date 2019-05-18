@@ -14,7 +14,7 @@ Baseball pitchers taking at-bats in Major League Baseball's National League is
 off the top of my head the single example in popular professional sports
 whereby you are witnessing a participant be legitimately terrible at the sport they
 are paid to play. Philosophical spirit-of-the-game arguments aside, some may
-argue that there are a handful of pitchers who are at least passible hitters.
+argue that there are a handful of pitchers who are at least passable hitters.
 However, for pitchers with at least 200 plate appearances since 2009, Carlos
 Zambrano is the best with a wRC+ of 65, 35% worse than your average Major League
 hitter. Of the 101 pitchers who qualify under that criteria only 36 have wRC+s

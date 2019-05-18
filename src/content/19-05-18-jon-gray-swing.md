@@ -6,7 +6,7 @@ Bases Loaded in the Top of the Second Inning in Last Night's One Run Loss to the
 Phillies"
 ---
 
-***Discussed:*** *Carlos Zambrano, run expectancy, double play scenarios, playing it cool, Angel Hernandez*
+***Discussed:*** *Carlos Zambrano, run expectancy, double play scenarios, playing it cool, Angel Hernandez, creeping determinism*
 
 <hr />
 

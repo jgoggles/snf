@@ -22,7 +22,7 @@ greater than or equal to zero. Somehow managing to be a mathematically confoundi
 than 100% worse than your average hitter are the remaining 65. Pitchers are
 very bad hitters, it cannot be overstated.
 
-This brings us to the game played on May 18, 2019 between the Colorado Rockies
+This brings us to the game played on May 17, 2019 between the Colorado Rockies
 and the Philadelphia Phillies. In the top of the second inning the Phillies
 managed to fielders-choice-and-error their way to allowing the bases loaded
 with one out. A team in this situation on average

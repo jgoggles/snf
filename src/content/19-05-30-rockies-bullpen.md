@@ -4,7 +4,7 @@ date: "2019-05-30"
 title: "The Rockies: The Bullpen: They're Compentent Mostly"
 ---
 
-***Discussed:*** *K rates, standard deviations, batted balls of varying heights, Sam Hinkie, modern portfolio theory?*
+***Discussed:*** *K rates, standard deviations, batted balls of varying heights, modern portfolio theory?, Sam Hinkie*
 
 <hr />
 

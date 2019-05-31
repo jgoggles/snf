@@ -49,7 +49,7 @@ relatively low. We also shouldn't be allowed to only assume regression of one
 statistic but not all, which means that the bullpen's K/9 should increase
 somewhat according to math.   
 
-Overall the Rockies' bullpen can probably be deemed mostly dependable
+Going forward the Rockies' bullpen should continue to be deemed mostly dependable
 given the general skillset it possesses. However, is "mostly dependable" what you want for a group that
 comprises 33% of your payroll?[^2] Is being better than average at producing ground balls
 a premium dollar skillset? On one hand it may seem like a risk-averse strategy: pay a premium for dependability. This would
@@ -59,6 +59,6 @@ very often be willing to do something different from the herd." Allocating
 mucho payroll for mostly average results from aging relief pitchers is
 definitely different, and there are worse things than mostly dependable. But also better ones.
 
-[^1]: MLB average is 17%; World Series Champion Boston Red Sox: 4.5%
-[^2]: <https://www.lookoutlanding.com/2010/2/24/1323776/much-much-more-on-groundballs>
+[^1]: [Groundball Information](https://www.lookoutlanding.com/2010/2/24/1323776/much-much-more-on-groundballs)
+[^2]: MLB average is 17%; World Series Champion Boston Red Sox: 4.5%
 [^3]: Former GM of the Philadelphia 76ers

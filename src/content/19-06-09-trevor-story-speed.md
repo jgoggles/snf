@@ -4,7 +4,7 @@ date: "2019-06-09"
 title: "Science Has Concluded Trevor Story Possesses Tremendous Speed"
 ---
 
-***Discussed:*** *Knocking space down a frontier (or two because the ocean), Top Gun, 5G, forgoing bipedalism, neural networks, rock solid stuff, speculation, pointing, designated zones, gambling*
+***Discussed:*** *Knocking space down a frontier (or two because the ocean), Top Gun, 5G, forgoing bipedalism, neural networks, rock solid stuff, speculative stuff, pointing, designated zones, gambling*
 
 <hr />
 

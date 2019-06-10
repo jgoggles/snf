@@ -19,7 +19,7 @@ to predict stolen base success by using numerous data including runner's speed a
 That is rock solid stuff right there. 
 
 Below we have visual proof of machine learning's proof of Trevor Story's freak-of-nature nature when it comes to stolen base prowess thanks to Amazon's impressive
-real time integration of its science into in-game graphics, which obviously requires sub-second response times from its model. Notice not only is Story on his hands and knees, he is
+real-time integration of its science into in-game graphics, which obviously requires sub-second response times from its model. Notice not only is Story on his hands and knees, he is
 not even leading off, he's literally touching first base. Making things more impressive, he has decided to not look at second base, instead facing away from second base and looking at 
 either the ground or whatever Mets' first baseman Pete Alonso is pointing at. It's impossible to tell for sure what he's looking at except that it's not second base. Also possible is that 
 Pete Alonso is amazed that Trevor is looking at not second base and is like pointing at what he thinks Trevor is looking at saying probably,
@@ -31,7 +31,7 @@ So Trevor dove and slid back to first base like you're supposed to when someone 
 
 So anyway, that's the situation; the 63-percent-chance-of-a-successful-stolen-base situation. Trevor Story is on his hands and knees, 
 facing away from second base with Pete Alonso who is holding the baseball and pointing at something, could be anything, plus we don't know for sure what Trevor is even looking at 
-in that moment, and Trevor is not even in the fucking Go Zone–we haven't even mentioned the being outside the Go Zone bit. Given this set of variables a betting 
+in that moment, and Trevor is not even in the fucking Go Zone–we haven't even mentioned the being-outside-the-Go-Zone bit. Given this set of variables a betting 
 man would not bet on a successful stolen base, especially because of the Go Zone part since that's presumably the only Zone where you Go. 
 To that science and math and computers say not so fast, betting man. Not so fast. 
 

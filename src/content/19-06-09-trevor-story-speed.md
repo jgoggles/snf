@@ -15,7 +15,7 @@ to do it is quickly. Hey what's up with your slow terrible Internet? Only Prime 
 
 The paragon of speed in Major League Baseball is Rockies' shortstop Trevor Story. This is a man who, as affirmed by–get this–Statcast AI powered by AWS, 
 is able to steal bases 63% of time when starting from–get this–his hands and knees. This is according to science and math and computers. Amazon has "trained a deep neural network 
-to predict stolen base success by using numerous data including runner’s speed and burst, catcher’s pop time, pitcher’s velocity and handedness, lead-off distance, and the game situation".
+to predict stolen base success by using numerous data including runner's speed and burst, catcher's pop time, pitcher's velocity and handedness, lead-off distance, and the game situation".
 That is rock solid stuff right there. 
 
 Below we have visual proof of machine learning's proof of Trevor Story's freak-of-nature nature when it comes to stolen base prowess thanks to Amazon's impressive

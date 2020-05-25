@@ -4,6 +4,10 @@
   "description": "I dont know",
   "version": "0.1.0",
   "license": "MIT",
+  "engineStrict": true,
+  "engines": {
+      "node": ">=12.16.1"
+  },
   "scripts": {
     "develop": "gatsby develop",
     "start": "npm run develop",
